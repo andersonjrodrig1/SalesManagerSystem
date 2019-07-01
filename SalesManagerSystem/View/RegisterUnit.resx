@@ -117,43 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MESSAGE_CALC_UNIT" xml:space="preserve">
-    <value>Tipo de Calculo obrigatório!</value>
-  </data>
-  <data name="MESSAGE_DESCRIPTION_UNIT" xml:space="preserve">
-    <value>Descrição da Unidade obrigatória!</value>
-  </data>
-  <data name="MESSAGE_ERROR" xml:space="preserve">
-    <value>Erro!</value>
-  </data>
-  <data name="MESSAGE_EXIT_SYSTEM" xml:space="preserve">
-    <value>Deseja realmente sair do sistema?</value>
-  </data>
-  <data name="MESSAGE_FAIL" xml:space="preserve">
-    <value>Falha ao salvar os dados!</value>
-  </data>
-  <data name="MESSAGE_LOGIN_VOID" xml:space="preserve">
-    <value>Campos usuário e senha devem ser preenchidos!</value>
-  </data>
-  <data name="MESSAGE_PASSWORD_VOID" xml:space="preserve">
-    <value>Senha obrigatória!</value>
-  </data>
-  <data name="MESSAGE_SAVE_SUCESS" xml:space="preserve">
-    <value>Salvo com sucesso!</value>
-  </data>
-  <data name="MESSAGE_SUCESS" xml:space="preserve">
-    <value>Sucesso!</value>
-  </data>
-  <data name="MESSAGE_UNIT_KEY" xml:space="preserve">
-    <value>Código da Unidade obrigatório!</value>
-  </data>
-  <data name="MESSAGE_USER_INVALID" xml:space="preserve">
-    <value>Usuário e/ou senha inválida!</value>
-  </data>
-  <data name="MESSAGE_USER_VOID" xml:space="preserve">
-    <value>Usuário obrigatório!</value>
-  </data>
-  <data name="MESSAGE_WARNING" xml:space="preserve">
-    <value>Atenção!</value>
-  </data>
 </root>

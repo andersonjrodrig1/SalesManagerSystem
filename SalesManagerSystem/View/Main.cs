@@ -15,6 +15,8 @@ namespace SalesManagerSystem.View
     public partial class Main : Form
     {
         private readonly Login formLogin = null;
+        private RegisterUser registerUser = null;
+        private RegisterUnit registerUnit = null;
 
         public Main()
         {
@@ -36,6 +38,20 @@ namespace SalesManagerSystem.View
                 this.formLogin.EnableScreenLogin();
                 this.Dispose();
             }
+        }
+
+        private void imnUser_Click(object sender, EventArgs e)
+        {
+            this.registerUser = new RegisterUser();
+            this.registerUser.StartPosition = FormStartPosition.CenterScreen;
+            this.registerUser.ShowDialog();
+        }
+
+        private void imnUnit_Click(object sender, EventArgs e)
+        {
+            this.registerUnit = new RegisterUnit();
+            this.registerUnit.StartPosition = FormStartPosition.CenterScreen;
+            this.registerUnit.ShowDialog();
         }
     }
 }

@@ -117,43 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MESSAGE_CALC_UNIT" xml:space="preserve">
-    <value>Tipo de Calculo obrigatório!</value>
+  <data name="Target" xml:space="preserve">
+    <value>H4sIAAAAAAAEAO1aX2/bNhB/H7DvIOhxyKIkRYEtsFtkjlMYje3ASrr1yWAk2hFGUZpIZQmGfbI97CPtK+yovxRJ2bISp0FRDChmifc78u53x9Nd/vvn38H7h5BY9zhhQUSH9vHhkW1h6kV+QNdDO+WrH3+y37/7/rvB2A8frE/lujdiHUhSNrTvOI9PHYd5dzhE7DAMvCRi0YofelHoID9yTo6OfnaOjx0MEDZgWdZgkVIehDj7AT9HEfVwzFNEppGPCSuewxs3Q7VmKMQsRh4e2i4imE0RRWucuI+M49C2zkiAYCcuJivbQpRGHHHY5+kNwy5PIrp2Y3iAyPVjjGHdChGGi/2f1su7HuXoRBzFqQVLKC9lPAp3BDx+U9jGUcV7WdiubAfWG4OV+aM4dWbBoT1CxBM/bUtVdjoiiXhjMvBh5pXDUvjA0pccVNwACon/DqxRSnia4CHFKU8QObCu0lsSeB/x43X0O6ZDmhIi7xb2C+8aD+DRVRLFOOGPC7wqzjDxbctpyjmqYCUmyeSnm1D+5sS2ZqAc3RJckUGyhMujBH/AFCeIY/8KcY4TKjBwZk5Nu6JL/FtqA/ZBINnWFD1cYrrmdxA6EDkXwQP2ywfFBm5oAGEHMjxJsWGDstKBU3t2o78BlE8xYuCHEHbfy+0Kxjfvb9QFexEG20CAk2cggK73HDMvCWJxhC363+5Ff5kctttawZmh+2Cdmb4F0bYWmGQL2F0Q51leJeWyXnyRROEiIjr5qzVLN0oTT8RotGXhNUrWmPeNPYaTfgEHgt+ibKMuYaIteXY/NBeKL6N1QPec4c2arxBjf0aJv0H58dt9KX/e6C4RzdENL5f1Cimk5Rd6HDfePjl4exdKpfC3IH5KofQcAdzm7zPGIi/ITmGulOoLpXmEMfWtrrdLfjDDbQXHBJcHMTgZ9ja0f9As1UFNSW9JTX0JNvGPNXwgCU6ElxCBby8GtAso1xkVUC+IEem4FUW+IyeFkypN6ptzHGMq6NTR6F22IFcq+lYqjUrgbLPYwJE4tYVqjezW6nhzqpNIldUXOzDJmB0VwH3Sx6T/JThjMmQXvfKl9wJEyTMVyHCQwEmxiewGgYcUe3lPQLuPYJvFlcSKnKgyQOC6mCv8Z7ZVJ0ctg2g0aoIogWjC0pLeNkgwtxEn4/kW4bTwVRuA8VCSI1pPJn1ZSMu3fYWobNnh2qhOZjKyRsMdLgoJWKKAWiA0bdLFXs1azWCk9nTXIeHJ5sgJsskGxhQnQUg06XzwsoaoIrPuTjp5e7JsYzotfczBFMUxlDdSX7N4Yrl5U3P0o7t7ty/MMRyPGZp+1W4rTVCsQRmqvAXVsNOLIGH8HHF0i0QFNfJDbZmah1rCsdSmphrdZ2WQlhLi/6WU16yr2wKrtuQFHE7wPjsnNnBdF83ay4igxFADjyKShrT4fa6Trl06r2pl+dnZdGxCGDjK3rU7RrOSwlnV7J2comWVJ/pGzfO7u2grwn48VbXqZIiP48/Lm9nkehcgrfcmA56P3dFicnU9mc92BpZLVRlzdHY5Wl5/vhovzSf+UszKEvRT6SSu+x4cMorthzh190nGuHHHi2VbrG+CKvpJGtbl/MNktitY3SLS8K7OXPfX+WLno5oYmAG+PgbW9/szsLDnhdMu+lVfOFqZpC6ptFflklIWDYoSZfsMWKtZ8iW2Baa5D/ysXsn9KBYcun+QEQmyb5ByAXg7WGHG8w6bfXJ0fKKMkV/PSNdhzCe957oT+Eh9GNp/WX/36iFqVOzQQzwv2wqBMPnWLuGOveic3bmCe5R4dyjR2u8vNT396oxblz/tBj7ZZmDDdFIrgtrh3+4O36yHJPO0O0wInlqT35ay7IE1TyA5nFpH4NDnIpF5DPjVMUcqf57Vt3Ip9ISgbwGua6J2bDFS64Pdk5Cy7L4I+e2u6MjHPQ6Q6ju71wintfP3tMlTr9b+hvZMF5o8ZQTUbeSz8Xv5lQ19NE50n8s0gXpMi3oPdl7M++bugGF4s/ED9cXGN3p3tdtwZuNsJv/aGdr+bQQ+znNXRfFdRzddJjcmhaKMW07HZ+7NYjwdz7S+lnG+0zreMWoAF3ZCbTFY/aoN3WywLzEWUv3ebF3vMPfZNEB6bdMe7cBtkzpDalNbf3uZ5+gNCUgQ0p+uQ3piwbqGGNQDkhq0XDOhq6jMU8qOyiVK9TLFHPmQN84SHqyQx+G1hxnL/lDmEyIpLBmHt9if0HnK45TDkXF4Sxp/eCMy3Sb92dCquefBPGtls+c4AmwzgCPgOf0lDYhf7fvCUGq1QIgUWpSEwpdclIbrxwppFtGOQIX5qsx/jcOYABibUxfd4z57A+pd4jXyHsu+UjvIdkc0zT44D9A6QSErMGp5+Akc9sOHd/8DHQKdecExAAA=</value>
   </data>
-  <data name="MESSAGE_DESCRIPTION_UNIT" xml:space="preserve">
-    <value>Descrição da Unidade obrigatória!</value>
-  </data>
-  <data name="MESSAGE_ERROR" xml:space="preserve">
-    <value>Erro!</value>
-  </data>
-  <data name="MESSAGE_EXIT_SYSTEM" xml:space="preserve">
-    <value>Deseja realmente sair do sistema?</value>
-  </data>
-  <data name="MESSAGE_FAIL" xml:space="preserve">
-    <value>Falha ao salvar os dados!</value>
-  </data>
-  <data name="MESSAGE_LOGIN_VOID" xml:space="preserve">
-    <value>Campos usuário e senha devem ser preenchidos!</value>
-  </data>
-  <data name="MESSAGE_PASSWORD_VOID" xml:space="preserve">
-    <value>Senha obrigatória!</value>
-  </data>
-  <data name="MESSAGE_SAVE_SUCESS" xml:space="preserve">
-    <value>Salvo com sucesso!</value>
-  </data>
-  <data name="MESSAGE_SUCESS" xml:space="preserve">
-    <value>Sucesso!</value>
-  </data>
-  <data name="MESSAGE_UNIT_KEY" xml:space="preserve">
-    <value>Código da Unidade obrigatório!</value>
-  </data>
-  <data name="MESSAGE_USER_INVALID" xml:space="preserve">
-    <value>Usuário e/ou senha inválida!</value>
-  </data>
-  <data name="MESSAGE_USER_VOID" xml:space="preserve">
-    <value>Usuário obrigatório!</value>
-  </data>
-  <data name="MESSAGE_WARNING" xml:space="preserve">
-    <value>Atenção!</value>
+  <data name="DefaultSchema" xml:space="preserve">
+    <value>dbo</value>
   </data>
 </root>

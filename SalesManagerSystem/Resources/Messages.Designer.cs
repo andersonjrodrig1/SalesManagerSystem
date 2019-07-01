@@ -61,11 +61,47 @@ namespace SalesManagerSystem.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Tipo de Calculo obrigatório!.
+        /// </summary>
+        internal static string MESSAGE_CALC_UNIT {
+            get {
+                return ResourceManager.GetString("MESSAGE_CALC_UNIT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Descrição da Unidade obrigatória!.
+        /// </summary>
+        internal static string MESSAGE_DESCRIPTION_UNIT {
+            get {
+                return ResourceManager.GetString("MESSAGE_DESCRIPTION_UNIT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Erro!.
+        /// </summary>
+        internal static string MESSAGE_ERROR {
+            get {
+                return ResourceManager.GetString("MESSAGE_ERROR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Deseja realmente sair do sistema?.
         /// </summary>
         internal static string MESSAGE_EXIT_SYSTEM {
             get {
                 return ResourceManager.GetString("MESSAGE_EXIT_SYSTEM", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Falha ao salvar os dados!.
+        /// </summary>
+        internal static string MESSAGE_FAIL {
+            get {
+                return ResourceManager.GetString("MESSAGE_FAIL", resourceCulture);
             }
         }
         
@@ -84,6 +120,33 @@ namespace SalesManagerSystem.Resources {
         internal static string MESSAGE_PASSWORD_VOID {
             get {
                 return ResourceManager.GetString("MESSAGE_PASSWORD_VOID", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Salvo com sucesso!.
+        /// </summary>
+        internal static string MESSAGE_SAVE_SUCESS {
+            get {
+                return ResourceManager.GetString("MESSAGE_SAVE_SUCESS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sucesso!.
+        /// </summary>
+        internal static string MESSAGE_SUCESS {
+            get {
+                return ResourceManager.GetString("MESSAGE_SUCESS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Código da Unidade obrigatório!.
+        /// </summary>
+        internal static string MESSAGE_UNIT_KEY {
+            get {
+                return ResourceManager.GetString("MESSAGE_UNIT_KEY", resourceCulture);
             }
         }
         

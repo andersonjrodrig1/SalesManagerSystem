@@ -80,6 +80,7 @@
             this.imnUser.Name = "imnUser";
             this.imnUser.Size = new System.Drawing.Size(180, 22);
             this.imnUser.Text = "Usuário";
+            this.imnUser.Click += new System.EventHandler(this.imnUser_Click);
             // 
             // imnProduct
             // 
@@ -92,6 +93,7 @@
             this.imnUnit.Name = "imnUnit";
             this.imnUnit.Size = new System.Drawing.Size(180, 22);
             this.imnUnit.Text = "Unidade de Medida";
+            this.imnUnit.Click += new System.EventHandler(this.imnUnit_Click);
             // 
             // mnView
             // 
@@ -106,19 +108,19 @@
             // imnViewUsers
             // 
             this.imnViewUsers.Name = "imnViewUsers";
-            this.imnViewUsers.Size = new System.Drawing.Size(180, 22);
+            this.imnViewUsers.Size = new System.Drawing.Size(123, 22);
             this.imnViewUsers.Text = "Usuários";
             // 
             // imnViewProducts
             // 
             this.imnViewProducts.Name = "imnViewProducts";
-            this.imnViewProducts.Size = new System.Drawing.Size(180, 22);
+            this.imnViewProducts.Size = new System.Drawing.Size(123, 22);
             this.imnViewProducts.Text = "Produtos";
             // 
             // mnViewUnits
             // 
             this.mnViewUnits.Name = "mnViewUnits";
-            this.mnViewUnits.Size = new System.Drawing.Size(180, 22);
+            this.mnViewUnits.Size = new System.Drawing.Size(123, 22);
             this.mnViewUnits.Text = "Unidades";
             // 
             // mnRecord
@@ -132,7 +134,7 @@
             // imnRecExit
             // 
             this.imnRecExit.Name = "imnRecExit";
-            this.imnRecExit.Size = new System.Drawing.Size(180, 22);
+            this.imnRecExit.Size = new System.Drawing.Size(151, 22);
             this.imnRecExit.Text = "Registrar Saída";
             // 
             // mnReport
@@ -198,7 +200,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Main";
-            this.Text = "Main";
+            this.Text = "Sistema de Gerenciamento de Vendas";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
